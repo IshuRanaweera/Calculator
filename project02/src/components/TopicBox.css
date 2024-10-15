@@ -1,0 +1,20 @@
+.topicBox{
+    background-color: red;
+    width: 1000px;
+    height: 1000px;
+    border-radius:10px ;
+
+}
+.text{
+    color: #f5eaea;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.text1{
+    color: #29c91a;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
